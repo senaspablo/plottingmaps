@@ -1,3 +1,6 @@
+#The following function plots the US map according to the candidate to the 2020 Democratic Party
+#presidential primaries that has won at each state.
+
 library(usmap)
 library(ggplot2)
 library(ggthemes)
